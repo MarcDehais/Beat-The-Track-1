@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     public static PlayerController instance;
     //Définition des variables de jeu
 
-    // test commit
+    // test commit2
 
     [Header("Déplacement")]
     public float moveSpeed;
